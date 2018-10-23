@@ -4,7 +4,7 @@ public class Kaym {
 	static Scanner sc= new Scanner(System.in);
 	public static void main(String[]args) {
 		
-		serPa
+		System.out.print("Christian Zyrus Manglapus");
 	}
 	
 	
